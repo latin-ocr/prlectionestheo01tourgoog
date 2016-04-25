@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prlectionestheo01tourgoog_0551.png"; bbox 0 0 790 1550; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 357 188 522 291">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 363 188 522 265">
+     <span class='ocr_line' id='line_1_1' title="bbox 363 188 522 214; baseline 0.013 -2"><span class='ocrx_word' id='word_1_1' title='bbox 363 188 385 201; x_wconf 65' lang='lat'>‘²‘</span> <span class='ocrx_word' id='word_1_2' title='bbox 389 188 461 212; x_wconf 59' lang='lat' dir='ltr'>&#39;uminis</span> <span class='ocrx_word' id='word_1_3' title='bbox 466 188 522 214; x_wconf 64' lang='lat' dir='ltr'>Eci&#39;lel</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 386 209 514 238; baseline 0.008 -3"><span class='ocrx_word' id='word_1_4' title='bbox 386 209 491 236; x_wconf 66' lang='lat' dir='ltr'>s‘quenxibu,</span> <span class='ocrx_word' id='word_1_5' title='bbox 496 218 514 238; x_wconf 76' lang='lat' dir='ltr'>u(</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 384 235 522 265; baseline 0.029 -9"><span class='ocrx_word' id='word_1_6' title='bbox 384 235 403 253; x_wconf 74' lang='lat'>11¹</span> <span class='ocrx_word' id='word_1_7' title='bbox 409 238 473 260; x_wconf 81' lang='lat' dir='ltr'>Ordine</span> <span class='ocrx_word' id='word_1_8' title='bbox 480 245 522 265; x_wconf 67' lang='lat' dir='ltr'>Rom</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 357 259 522 291">
+     <span class='ocr_line' id='line_1_4' title="bbox 357 259 522 291; baseline 0.012 -4"><span class='ocrx_word' id='word_1_9' title='bbox 357 259 400 283; x_wconf 60' lang='lat' dir='ltr'>&#39;‘fi&#39;&#39;</span> <span class='ocrx_word' id='word_1_10' title='bbox 403 264 436 287; x_wconf 63' lang='grc' dir='ltr'>ΡΨ</span> <span class='ocrx_word' id='word_1_11' title='bbox 440 266 522 291; x_wconf 65' lang='lat' dir='ltr'>Graium</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 368 513 514 539">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 368 513 514 539">
+     <span class='ocr_line' id='line_1_5' title="bbox 368 513 514 539; baseline 0.014 -2"><span class='ocrx_word' id='word_1_12' title='bbox 368 522 375 530; x_wconf 87' lang='lat'><em>’</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 384 513 440 535; x_wconf 62' lang='lat' dir='ltr'>”²3⁰st</span> <span class='ocrx_word' id='word_1_14' title='bbox 447 527 455 537; x_wconf 67' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_15' title='bbox 465 518 514 539; x_wconf 74' lang='lat' dir='ltr'><em>Ponti</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 64 184 332 713">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 64 184 332 713">
+     <span class='ocr_line' id='line_1_6' title="bbox 64 184 332 713; baseline 0 837"><span class='ocrx_word' id='word_1_16' title='bbox 64 184 332 713; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
